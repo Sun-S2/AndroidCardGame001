@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CardGame</string>
+    <string name="app_start">Starta spelet</string>
+    <string name="deal">Deal</string>
+    <string name="start_again">Igen</string>
+    <string name="quit">Sluta spela</string>
+    <string name="title01">Spela genom att trycka på Deal</string>
+    <string name="score">Poäng</string>
+    <string name="win">Du vann!</string>
+    <string name="app_win">Appen vann!</string>
+    <string name="amount_count">Kvar</string>
+    <string name="plain_text">Du måste få högre än 2 poäng</string>
+</resources>
